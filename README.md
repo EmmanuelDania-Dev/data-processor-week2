@@ -123,8 +123,8 @@ All tests currently pass successfully.
 
 ## How to Run the Project
 1. Clone the repository
-git clone <your-repository-url>
-cd data-processor-week2
+git clone <https://github.com/EmmanuelDania-Dev/data-processor-week2.git>
+cd data processor
 
 2. Create a virtual environment
 python -m venv .venv
@@ -172,8 +172,8 @@ pytest
 
 A short recording demonstrating the project running successfully is available here:
 
-Demo Recording:
-[INSERT DEMO RECORDING LINK HERE]
+**Demo Recording:**
+https://drive.google.com/file/d/1WUmdZ0MjV1giDdamKozNvRKqq_mxWJOg/view?usp=sharing
 
 Internship
 
