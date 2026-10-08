@@ -38,6 +38,7 @@ data-processor/
         ├── test_context_manager.py
         ├── test_processor.py
         └── test_transformations.py
+```
 
 ## Technologies Used
 
@@ -175,7 +176,7 @@ A short recording demonstrating the project running successfully is available he
 **Demo Recording:**
 https://drive.google.com/file/d/1WUmdZ0MjV1giDdamKozNvRKqq_mxWJOg/view?usp=sharing
 
-Internship
+## Internship
 
 This project was completed as part of my Week 2 assignment for the FIP Internship.
 
