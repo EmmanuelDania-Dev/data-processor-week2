@@ -21,7 +21,7 @@ The goal of this project is to build a simple and maintainable data processing p
 ## Project Structure
 
 ```text
-data-processor-week2/
+data-processor/
 │
 ├── .gitignore
 ├── README.md
